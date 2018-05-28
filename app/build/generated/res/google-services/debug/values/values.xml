@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">984518205746-1pih3a32u1rv8b6uh47jbgnu80904630.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://way2schoolindia-201118.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">984518205746</string>
+    <string name="google_api_key" translatable="false">AIzaSyDDqeB0H600U4CG4CWGffhcaYFs4tATL-0</string>
+    <string name="google_app_id" translatable="false">1:984518205746:android:12eb06e78573d77b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDDqeB0H600U4CG4CWGffhcaYFs4tATL-0</string>
+    <string name="google_storage_bucket" translatable="false">way2schoolindia-201118.appspot.com</string>
+    <string name="project_id" translatable="false">way2schoolindia-201118</string>
+</resources>

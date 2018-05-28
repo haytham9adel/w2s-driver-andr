@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">DriverApp</string>
+
+    <string name="action_settings">إعدادات</string>
+    <string name="servernotresponding">الخادم لا يستجيب</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="login_tapyourcard">اضغط بطاقتك</string>
+    <string name="login_userid">معرف المستخدم</string>
+    <string name="login_password">كلمة المرور</string>
+    <string name="login_driverlogin">دخوال السائق</string>
+    <string name="title">تتبع M3aak حافلة المدرسة</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="qr_empty">لا نتائج لفي ريال قطري</string>
+    <string name="login_username">اسم المستخدم</string>
+
+    <string name="connect">متصل</string>
+    <string name="disconnect">فصله، الرجاء التحقق من اتصال الإنترنت الخاص بك.</string>
+    <string name="no_internet">الرجاء التحقق من اتصال الإنترنت الخاص بك!</string>
+    <string name="error_connect">فشل الاتصال</string>
+
+    <string name="no_nfc">لا توجد NFC على هذا الجهاز.</string>
+    <string name="not_empty">لا يمكن أن يكون الحقل فارغا.</string>
+    <string name="login">الدخول</string>
+    <string name="wait">أرجو الإنتظار.......</string>
+    <string name="nfc_disabled">nfc_disabled</string>
+    <string name="NFC_RECORD">NFC RECORD</string>
+    <string name="success">نجاح</string>
+    <string name="thank_you">شكرا !</string>
+    <string name="qr_login_txt">دخول/خروج الطلاب باستخدام رمز ال QR</string>
+    <string name="set_notification">تحديد الرسائل</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="chat_with_school_admin">مراسلة المدرسة</string>
+    <string name="logout">خروج</string>
+    <string name="loading">جار التحميل</string>
+    <string name="message_sent">تم الارسال!</string>
+    <string name="set_message">الرجاء ضبط الرسالة وحاول مرة أخرى!</string>
+    <string name="choose_message">اختيار رسالة لإرسالها</string>
+    <string name="alert">إنذار</string>
+    <string name="enable_gps">يرجى تمكين GPS قبل استخدام التطبيق.</string>
+    <string name="ok">حسنا</string>
+    <string name="cancel">إلغاء</string>
+    <string name="loading_map">تحميل الخريطة</string>
+    <string name="speed_is">السرعة</string>
+    <string name="wrong_route_noti">إخطار طريق الخطأ ترسل!</string>
+    <string name="over_speed_noti">على مدى سرعة إخطار أرسلت!</string>
+    <string name="add_message">إضافة رسالة أولا.</string>
+    <string name="confirm">تأكيد</string>
+    <string name="proceed_msg">هل تريد المتابعة؟</string>
+    <string name="yes">نعم</string>
+    <string name="student_absent">تغيب الطالب.</string>
+    <string name="absent">غائب</string>
+    <string name="CheckOut"> خروج</string>
+    <string name="CheckIn"> دخول</string>
+    <string name="Updating">تحديث</string>
+    <string name="Profile">الملف الشخصي</string>
+    <string name="Chat">دردشة</string>
+    <string name="total_present">إجمالي الطلاب الموجودين في الحافلة</string>
+    <string name="total_waiting">إجمالي الطلاب المنتظرين</string>
+    <string name="total_absent">إجمالي الطلاب الغائبين</string>
+    <string name="total_student">مجموع الطلاب</string>
+    <string name="Attached_File">ملف مرفق</string>
+    <string name="download_done">تم التحميل.</string>
+    <string name="write_msg">يرجى إرسال رسالة وحاول مرة أخرى!</string>
+    <string name="student_CheckIn">يتم فحص الطالب في.</string>
+    <string name="Send">إرسال</string>
+    <string name="on_map">الطلاب علي الخريطة</string>
+    <string name="on_bus">الطلاب في الحافلة</string>
+    <string name="language_title">اختر اللغة المفضلة</string>.
+    <string name="english">English</string>
+    <string name="arabic">العربية</string>
+
+
+    <string name="remember_me">تذكرني</string>
+    <string name="tap_card">قم بتمرير الكارت</string>
+    <string name="or">أو</string>
+    <string name="login_qr">الدخول باستخدام رمز ال QR</string>
+
+    <string name="set_edit_noti">تعيين آو تغيير الرسائل</string>
+    <string name="msg1">رسالة 1 هنا</string>
+    <string name="msg2">رسالة 2 هنا</string>
+    <string name="msg3">رسالة 3 هنا</string>
+    <string name="msg4">رسالة 4 هنا</string>
+    <string name="msg5">رسالة 5 هنا</string>
+    <string name="save">حفظ</string>
+    <string name="set_noti_title">تحديد الرسائل</string>
+    <string name="title_parent_chooser">تحديد بمن ستتصل</string>
+    <string name="title_parent_chooser_multi">حدد الرئيسي لإرسال الإخطار.</string>
+    <string name="send">إرسال</string>
+    <string name="change_language">تغيير اللغة</string>
+
+
+    <string name="nationality">الجنسية</string>
+    <string name="blood_group">فصيلة الدم</string>
+    <string name="date_of_birth">تاريخ الميلاد</string>
+    <string name="mobile_number">رقم المحمول</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="license_expiry_date">تاريخ إنتهاء رخصة القياده</string>
+    <string name="documnet_name">اسم الوثيقة</string>
+    <string name="expiry_date">تاريخ الإنتهاء</string>
+    <string name="remind_before_days">التذكير قبل موعد الآنتهاء بالأيام</string>
+    <string name="vehical_insurance_copy">نسخة مركبة بطاقة التأمين</string>
+    <string name="write_here">اكتب الرساله هنا</string>
+    <string name="all_parent">كل الرئيسي</string>
+    <string name="download">تحميل</string>
+    <string name="download_start">تحميل بداية</string>
+    <string name="unable_download">غير قادر على تنزيل الملف</string>
+    <string name="absent_confirmation_msg">هل تريد تأكيد عدم حضور الطالب ؟</string>
+
+    <string name="check_in_confirmation_msg">هل تريد تسجيل دخول الطالب ؟ </string>
+    <string name="check_out_confirmation_msg">هل تريد تسجيل خروج  الطالب ؟ </string>
+
+    <string name="want_logout">هل تريد الخروج؟</string>
+    <string name="save_">حفظ</string>
+
+    <string name="bus_arrive_str">سوف حافلة تصل على التوقف في</string>
+    <string name="mins">دقائق.</string>
+
+    <string name="type_msg">يرجى إرسال رسالة وحاول مرة أخرى!</string>
+
+    <string name="student">الطالب</string>
+</resources>

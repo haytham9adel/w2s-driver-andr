@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

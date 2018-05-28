@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Single menu item 
+         Set id, icon and Title for each menu item
+    -->
+    <item android:id="@+id/menu_studentlogin"
+        android:title="Student Login" />
+
+    <item android:id="@+id/menu_set_notification"
+        android:title="Set Notification" />
+
+    <item android:id="@+id/menu_profile"
+        android:title="Profile" />
+
+    <item android:id="@+id/menu_chat"
+        android:title="Chat" />
+
+    <item android:id="@+id/menu_logout"
+        android:title="Logout" />
+
+</menu>

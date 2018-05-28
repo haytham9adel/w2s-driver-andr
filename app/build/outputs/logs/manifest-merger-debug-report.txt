@@ -1,0 +1,466 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:2:1-156:12
+	package
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:4:5-32
+		INJECTED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.NFC
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:7:5-62
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:7:22-59
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:8:5-69
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:8:22-66
+uses-permission#android.permission.CAMERA
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:9:22-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\Elnemr\.android\build-cache\3c66bc7d630a157cc9db48730184945ea40f61ec\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\Elnemr\.android\build-cache\5ab39029e636b1ad59e1c020c5bc3d83b6721b16\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] C:\Users\Elnemr\.android\build-cache\0227c40fc7cc3f8507e76404736a7f8efd62977a\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\Elnemr\.android\build-cache\b4011038d367c5ad32f0104e0476b90ad33e79f7\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\Elnemr\.android\build-cache\3c66bc7d630a157cc9db48730184945ea40f61ec\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\Elnemr\.android\build-cache\5ab39029e636b1ad59e1c020c5bc3d83b6721b16\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] C:\Users\Elnemr\.android\build-cache\0227c40fc7cc3f8507e76404736a7f8efd62977a\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\Elnemr\.android\build-cache\b4011038d367c5ad32f0104e0476b90ad33e79f7\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:12:5-98
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:12:22-95
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:16:22-76
+uses-feature#0x00020000
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:18:5-20:35
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\Elnemr\.android\build-cache\3c66bc7d630a157cc9db48730184945ea40f61ec\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:19:9-41
+	android:required
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:20:9-32
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:24:5-71
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:24:22-68
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:27:5-68
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\Elnemr\.android\build-cache\5ab39029e636b1ad59e1c020c5bc3d83b6721b16\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] C:\Users\Elnemr\.android\build-cache\0227c40fc7cc3f8507e76404736a7f8efd62977a\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\Elnemr\.android\build-cache\b4011038d367c5ad32f0104e0476b90ad33e79f7\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:27:22-65
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:28:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:29:5-81
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:29:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:32:5-66
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:32:22-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:33:5-68
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:33:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:34:5-74
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:34:22-71
+permission#com.rudiment.trackingbus.driverapp.permission.MAPS_RECEIVE
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:36:5-38:47
+	android:protectionLevel
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:38:9-44
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:37:9-82
+uses-permission#com.rudiment.trackingbus.driverapp.permission.MAPS_RECEIVE
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:39:5-98
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:39:22-95
+application
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:42:5-154:19
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\Elnemr\.android\build-cache\3c66bc7d630a157cc9db48730184945ea40f61ec\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\Elnemr\.android\build-cache\578371e27540b4afdfa45f28a9d5fffe849155a6\output\AndroidManifest.xml:18:5-20:19
+MERGED from [cn.pedant.sweetalert:library:1.3] C:\Users\Elnemr\.android\build-cache\d10b78ea486c992b569c7ce2812ff572ce4654be\output\AndroidManifest.xml:11:5-20
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\Elnemr\.android\build-cache\a5280e4e867e46a19de67f14cf3b5a7f306c1a24\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:design:22.2.1] C:\Users\Elnemr\.android\build-cache\63fef0be9225b28a2ebf4d64ca634cdb4041ce68\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Elnemr\.android\build-cache\c57d228e19f22c4281b5102d162595aaec1bedf1\output\AndroidManifest.xml:22:5-20
+MERGED from [me.dm7.barcodescanner:zxing:1.8.4] C:\Users\Elnemr\.android\build-cache\3293f46017a0b1e5943cbd7b03d84c19ce54f462\output\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.8.4] C:\Users\Elnemr\.android\build-cache\a0f25b496a4da093fd7c00364c5b5ab392015f8c\output\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:cardview-v7:22.2.1] C:\Users\Elnemr\.android\build-cache\c93533e709374e69467daa5f36f473115a5367bc\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging:11.0.1] C:\Users\Elnemr\.android\build-cache\3456efed2c62fbb97175f591d37b9161a449451a\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-core:11.0.1] C:\Users\Elnemr\.android\build-cache\b24d50474c85ea2eeca39e5cf9cfcd93f3da12bf\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\Elnemr\.android\build-cache\5ab39029e636b1ad59e1c020c5bc3d83b6721b16\output\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] C:\Users\Elnemr\.android\build-cache\0227c40fc7cc3f8507e76404736a7f8efd62977a\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\Elnemr\.android\build-cache\b4011038d367c5ad32f0104e0476b90ad33e79f7\output\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.1] C:\Users\Elnemr\.android\build-cache\ef6bc4a1fe6e21cda3563866d0232cd078ff1ad2\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] C:\Users\Elnemr\.android\build-cache\507a5625561be3a80db317f7cdd083d4c38e4f49\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\Elnemr\.android\build-cache\7435ae72522458dc883ee2bbd70d22ba73d8d92a\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Elnemr\.android\build-cache\0d2b9f1f4de99d4f9e845287d07b97e38dce66a3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Elnemr\.android\build-cache\4f083d546dbe36a36fe2b67e4fe5a430724ed71f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Elnemr\.android\build-cache\de84baa55d40666edda63ce75590014d5f320147\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Elnemr\.android\build-cache\4e51c5760a2667c691a244770c873fccef7d2a32\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Elnemr\.android\build-cache\c78146990a745f52d1182d55cec8bfaae3f61236\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Elnemr\.android\build-cache\a80571189a03f2a50eb64410275dea4a382b8fd5\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:46:9-41
+	android:supportsRtl
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:47:9-35
+	android:allowBackup
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:44:9-35
+	android:icon
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:45:9-49
+		REJECTED from [com.pnikosis:materialish-progress:1.0] C:\Users\Elnemr\.android\build-cache\a5280e4e867e46a19de67f14cf3b5a7f306c1a24\output\AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:49:9-40
+	tools:replace
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:48:9-37
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:43:9-63
+receiver#net.w2s.driverapp.service.AlarmMonitorReceiver
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:50:9-58:20
+	android:enabled
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:52:13-35
+	android:permission
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:53:13-75
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:51:13-74
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.category.DEFAULT
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:54:13-57:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:55:17-79
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:55:25-76
+category#android.intent.category.DEFAULT
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:56:17-76
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:56:27-73
+receiver#net.w2s.driverapp.service.LogoutReceiver
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:59:9-61:38
+	android:enabled
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:61:13-35
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:60:13-68
+activity#net.w2s.driverapp.bluetooth.DeviceScanActivity
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:62:9-64:48
+	android:label
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:64:13-45
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:63:13-74
+activity#net.w2s.driverapp.SplashActivity
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:65:9-78:20
+	android:screenOrientation
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:68:13-49
+	android:label
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:67:13-45
+	android:windowSoftInputMode
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:69:13-54
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:66:13-60
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:70:13-73:29
+action#android.intent.action.MAIN
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:71:17-69
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:71:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:72:17-77
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:72:27-74
+intent-filter#android.intent.category.DEFAULT+android.nfc.action.TAG_DISCOVERED
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:74:13-77:29
+action#android.nfc.action.TAG_DISCOVERED
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:75:17-76
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:75:25-73
+activity#net.w2s.driverapp.MainActivityNew
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:79:9-82:52
+	android:screenOrientation
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:82:13-49
+	android:label
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:81:13-45
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:80:13-61
+activity#net.w2s.driverapp.LoginActivity
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:83:9-87:76
+	android:screenOrientation
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:86:13-49
+	android:label
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:85:13-45
+	android:windowSoftInputMode
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:87:13-73
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:84:13-59
+activity#net.w2s.driverapp.StudentLogin
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:88:9-96:20
+	android:screenOrientation
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:91:13-49
+	android:label
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:90:13-45
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:89:13-58
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:103:9-105:71
+	android:value
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:105:13-68
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:104:13-62
+meta-data#com.google.android.gms.version
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:106:9-108:69
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\Elnemr\.android\build-cache\7435ae72522458dc883ee2bbd70d22ba73d8d92a\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:108:13-66
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:107:13-58
+activity#net.w2s.driverapp.ProfileActivity
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:110:9-113:57
+	android:screenOrientation
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:112:13-49
+	android:windowSoftInputMode
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:113:13-54
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:111:13-61
+activity#net.w2s.driverapp.SetMessageForStudent
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:114:9-117:70
+	android:screenOrientation
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:116:13-49
+	android:windowSoftInputMode
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:117:13-67
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:115:13-66
+activity#net.w2s.driverapp.other.MessageActivityNew
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:118:9-121:57
+	android:screenOrientation
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:120:13-49
+	android:windowSoftInputMode
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:121:13-54
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:119:13-70
+activity#net.w2s.driverapp.LoginWithQRCode
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:125:9-127:63
+	android:windowSoftInputMode
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:127:13-60
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:126:13-61
+service#net.w2s.driverapp.other.UpdateChatListService
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:130:9-81
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:130:18-78
+service#net.w2s.driverapp.service.SendNotiToNextStudentService
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:133:9-135:44
+	android:stopWithTask
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:135:13-41
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:134:13-82
+service#net.w2s.driverapp.service.CheckOutService
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:136:9-138:44
+	android:stopWithTask
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:138:13-41
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:137:13-69
+service#net.w2s.driverapp.service.LocationService
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:139:9-141:44
+	android:stopWithTask
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:141:13-41
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:140:13-69
+service#net.w2s.driverapp.bluetooth.ReaderService
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:142:9-77
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:142:18-74
+service#net.w2s.driverapp.fcm.MessagingService
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:144:9-148:19
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:144:18-71
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:145:13-147:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:146:17-78
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:146:25-75
+service#net.w2s.driverapp.fcm.InstanceService
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:149:9-153:19
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:149:18-70
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:150:13-152:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:151:17-80
+	android:name
+		ADDED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml:151:25-77
+uses-sdk
+INJECTED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\Elnemr\.android\build-cache\3c66bc7d630a157cc9db48730184945ea40f61ec\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\Elnemr\.android\build-cache\578371e27540b4afdfa45f28a9d5fffe849155a6\output\AndroidManifest.xml:17:5-43
+MERGED from [cn.pedant.sweetalert:library:1.3] C:\Users\Elnemr\.android\build-cache\d10b78ea486c992b569c7ce2812ff572ce4654be\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\Elnemr\.android\build-cache\a5280e4e867e46a19de67f14cf3b5a7f306c1a24\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:22.2.1] C:\Users\Elnemr\.android\build-cache\63fef0be9225b28a2ebf4d64ca634cdb4041ce68\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Elnemr\.android\build-cache\c57d228e19f22c4281b5102d162595aaec1bedf1\output\AndroidManifest.xml:20:5-43
+MERGED from [me.dm7.barcodescanner:zxing:1.8.4] C:\Users\Elnemr\.android\build-cache\3293f46017a0b1e5943cbd7b03d84c19ce54f462\output\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.8.4] C:\Users\Elnemr\.android\build-cache\a0f25b496a4da093fd7c00364c5b5ab392015f8c\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Elnemr\.android\build-cache\2b34305989245aeb98409120b904911db5792334\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:cardview-v7:22.2.1] C:\Users\Elnemr\.android\build-cache\c93533e709374e69467daa5f36f473115a5367bc\output\AndroidManifest.xml:20:5-43
+MERGED from [com.wang.avi:library:2.1.3] C:\Users\Elnemr\.android\build-cache\43a2598011d698e4b099f585689b2fe0545b4e3b\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-messaging:11.0.1] C:\Users\Elnemr\.android\build-cache\3456efed2c62fbb97175f591d37b9161a449451a\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.1] C:\Users\Elnemr\.android\build-cache\b24d50474c85ea2eeca39e5cf9cfcd93f3da12bf\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\Elnemr\.android\build-cache\5ab39029e636b1ad59e1c020c5bc3d83b6721b16\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] C:\Users\Elnemr\.android\build-cache\0227c40fc7cc3f8507e76404736a7f8efd62977a\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\Elnemr\.android\build-cache\b4011038d367c5ad32f0104e0476b90ad33e79f7\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.1] C:\Users\Elnemr\.android\build-cache\ef6bc4a1fe6e21cda3563866d0232cd078ff1ad2\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] C:\Users\Elnemr\.android\build-cache\507a5625561be3a80db317f7cdd083d4c38e4f49\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\Elnemr\.android\build-cache\7435ae72522458dc883ee2bbd70d22ba73d8d92a\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Elnemr\.android\build-cache\0d2b9f1f4de99d4f9e845287d07b97e38dce66a3\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Elnemr\.android\build-cache\4f083d546dbe36a36fe2b67e4fe5a430724ed71f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Elnemr\.android\build-cache\de84baa55d40666edda63ce75590014d5f320147\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Elnemr\.android\build-cache\4e51c5760a2667c691a244770c873fccef7d2a32\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Elnemr\.android\build-cache\c78146990a745f52d1182d55cec8bfaae3f61236\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Elnemr\.android\build-cache\a80571189a03f2a50eb64410275dea4a382b8fd5\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] C:\Users\Elnemr\.android\build-cache\0d2b9f1f4de99d4f9e845287d07b97e38dce66a3\output\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from [cn.pedant.sweetalert:library:1.3] C:\Users\Elnemr\.android\build-cache\d10b78ea486c992b569c7ce2812ff572ce4654be\output\AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		INJECTED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\work\projects\android\DriverApp\w2s-DriverApp\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\Elnemr\.android\build-cache\578371e27540b4afdfa45f28a9d5fffe849155a6\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\Elnemr\.android\build-cache\578371e27540b4afdfa45f28a9d5fffe849155a6\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\Elnemr\.android\build-cache\578371e27540b4afdfa45f28a9d5fffe849155a6\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\Elnemr\.android\build-cache\578371e27540b4afdfa45f28a9d5fffe849155a6\output\AndroidManifest.xml:19:19-85
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.1] C:\Users\Elnemr\.android\build-cache\3456efed2c62fbb97175f591d37b9161a449451a\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.1] C:\Users\Elnemr\.android\build-cache\3456efed2c62fbb97175f591d37b9161a449451a\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.1] C:\Users\Elnemr\.android\build-cache\3456efed2c62fbb97175f591d37b9161a449451a\output\AndroidManifest.xml:23:18-87
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\Elnemr\.android\build-cache\5ab39029e636b1ad59e1c020c5bc3d83b6721b16\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] C:\Users\Elnemr\.android\build-cache\0227c40fc7cc3f8507e76404736a7f8efd62977a\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\Elnemr\.android\build-cache\5ab39029e636b1ad59e1c020c5bc3d83b6721b16\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\Elnemr\.android\build-cache\5ab39029e636b1ad59e1c020c5bc3d83b6721b16\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\Elnemr\.android\build-cache\5ab39029e636b1ad59e1c020c5bc3d83b6721b16\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\Elnemr\.android\build-cache\5ab39029e636b1ad59e1c020c5bc3d83b6721b16\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\Elnemr\.android\build-cache\5ab39029e636b1ad59e1c020c5bc3d83b6721b16\output\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\Elnemr\.android\build-cache\5ab39029e636b1ad59e1c020c5bc3d83b6721b16\output\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\Elnemr\.android\build-cache\5ab39029e636b1ad59e1c020c5bc3d83b6721b16\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\Elnemr\.android\build-cache\5ab39029e636b1ad59e1c020c5bc3d83b6721b16\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\Elnemr\.android\build-cache\5ab39029e636b1ad59e1c020c5bc3d83b6721b16\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\Elnemr\.android\build-cache\5ab39029e636b1ad59e1c020c5bc3d83b6721b16\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\Elnemr\.android\build-cache\5ab39029e636b1ad59e1c020c5bc3d83b6721b16\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\Elnemr\.android\build-cache\5ab39029e636b1ad59e1c020c5bc3d83b6721b16\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] C:\Users\Elnemr\.android\build-cache\0227c40fc7cc3f8507e76404736a7f8efd62977a\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\Elnemr\.android\build-cache\5ab39029e636b1ad59e1c020c5bc3d83b6721b16\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\Elnemr\.android\build-cache\5ab39029e636b1ad59e1c020c5bc3d83b6721b16\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\Elnemr\.android\build-cache\5ab39029e636b1ad59e1c020c5bc3d83b6721b16\output\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\Elnemr\.android\build-cache\5ab39029e636b1ad59e1c020c5bc3d83b6721b16\output\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\Elnemr\.android\build-cache\5ab39029e636b1ad59e1c020c5bc3d83b6721b16\output\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\Elnemr\.android\build-cache\5ab39029e636b1ad59e1c020c5bc3d83b6721b16\output\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\Elnemr\.android\build-cache\5ab39029e636b1ad59e1c020c5bc3d83b6721b16\output\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\Elnemr\.android\build-cache\5ab39029e636b1ad59e1c020c5bc3d83b6721b16\output\AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\Elnemr\.android\build-cache\b4011038d367c5ad32f0104e0476b90ad33e79f7\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\Elnemr\.android\build-cache\b4011038d367c5ad32f0104e0476b90ad33e79f7\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\Elnemr\.android\build-cache\b4011038d367c5ad32f0104e0476b90ad33e79f7\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\Elnemr\.android\build-cache\b4011038d367c5ad32f0104e0476b90ad33e79f7\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\Elnemr\.android\build-cache\b4011038d367c5ad32f0104e0476b90ad33e79f7\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\Elnemr\.android\build-cache\b4011038d367c5ad32f0104e0476b90ad33e79f7\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\Elnemr\.android\build-cache\b4011038d367c5ad32f0104e0476b90ad33e79f7\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\Elnemr\.android\build-cache\b4011038d367c5ad32f0104e0476b90ad33e79f7\output\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\Elnemr\.android\build-cache\b4011038d367c5ad32f0104e0476b90ad33e79f7\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\Elnemr\.android\build-cache\b4011038d367c5ad32f0104e0476b90ad33e79f7\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\Elnemr\.android\build-cache\b4011038d367c5ad32f0104e0476b90ad33e79f7\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\Elnemr\.android\build-cache\b4011038d367c5ad32f0104e0476b90ad33e79f7\output\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\Elnemr\.android\build-cache\b4011038d367c5ad32f0104e0476b90ad33e79f7\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\Elnemr\.android\build-cache\b4011038d367c5ad32f0104e0476b90ad33e79f7\output\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\Elnemr\.android\build-cache\b4011038d367c5ad32f0104e0476b90ad33e79f7\output\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\Elnemr\.android\build-cache\b4011038d367c5ad32f0104e0476b90ad33e79f7\output\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\Elnemr\.android\build-cache\b4011038d367c5ad32f0104e0476b90ad33e79f7\output\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\Elnemr\.android\build-cache\b4011038d367c5ad32f0104e0476b90ad33e79f7\output\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\Elnemr\.android\build-cache\b4011038d367c5ad32f0104e0476b90ad33e79f7\output\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\Elnemr\.android\build-cache\b4011038d367c5ad32f0104e0476b90ad33e79f7\output\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\Elnemr\.android\build-cache\b4011038d367c5ad32f0104e0476b90ad33e79f7\output\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\Elnemr\.android\build-cache\b4011038d367c5ad32f0104e0476b90ad33e79f7\output\AndroidManifest.xml:43:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.1] C:\Users\Elnemr\.android\build-cache\ef6bc4a1fe6e21cda3563866d0232cd078ff1ad2\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.1] C:\Users\Elnemr\.android\build-cache\ef6bc4a1fe6e21cda3563866d0232cd078ff1ad2\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.1] C:\Users\Elnemr\.android\build-cache\ef6bc4a1fe6e21cda3563866d0232cd078ff1ad2\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.1] C:\Users\Elnemr\.android\build-cache\ef6bc4a1fe6e21cda3563866d0232cd078ff1ad2\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.1] C:\Users\Elnemr\.android\build-cache\ef6bc4a1fe6e21cda3563866d0232cd078ff1ad2\output\AndroidManifest.xml:6:79-143

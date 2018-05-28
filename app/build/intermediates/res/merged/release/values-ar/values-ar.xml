@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="Attached_File">ملف مرفق</string>
+    <string name="Chat">دردشة</string>
+    <string name="CheckIn"> دخول</string>
+    <string name="CheckOut"> خروج</string>
+    <string name="NFC_RECORD">NFC RECORD</string>
+    <string name="Profile">الملف الشخصي</string>
+    <string name="Send">إرسال</string>
+    <string name="Updating">تحديث</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"التنقل إلى الشاشة الرئيسية"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"خيارات إضافية"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"تم"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"عرض الكل"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"اختيار تطبيق"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"محو طلب البحث"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"طلب البحث"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"بحث"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"إرسال طلب البحث"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"البحث الصوتي"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"‏مشاركة مع %s"</string>
+    <string name="absent">غائب</string>
+    <string name="absent_confirmation_msg">هل تريد تأكيد عدم حضور الطالب ؟</string>
+    <string name="action_settings">إعدادات</string>
+    <string name="add_message">إضافة رسالة أولا.</string>
+    <string name="alert">إنذار</string>
+    <string name="all_parent">كل الرئيسي</string>
+    <string name="app_name">DriverApp</string>
+    <string name="arabic">العربية</string>
+    <string name="blood_group">فصيلة الدم</string>
+    <string name="bus_arrive_str">سوف حافلة تصل على التوقف في</string>
+    <string name="cancel">إلغاء</string>
+    <string name="change_language">تغيير اللغة</string>
+    <string name="chat_with_school_admin">مراسلة المدرسة</string>
+    <string name="check_in_confirmation_msg">هل تريد تسجيل دخول الطالب ؟ </string>
+    <string name="check_out_confirmation_msg">هل تريد تسجيل خروج  الطالب ؟ </string>
+    <string name="choose_message">اختيار رسالة لإرسالها</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"تمكين"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"‏لن يعمل <ns1:g id="APP_NAME">%1$s</ns1:g> ما لم يتم تمكين خدمات Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"‏تمكين خدمات Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"تثبيت"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play، والتي لا تتوفر على جهازك."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"‏الحصول على خدمات Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"‏خطأ في خدمات Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"‏لدى <ns1:g id="APP_NAME">%1$s</ns1:g> مشكلة في خدمات Google Play. الرجاء إعادة المحاولة."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play التي لا يوفرها جهازك."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"تحديث"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> ما لم يتم تحديث خدمات Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"‏تحديث خدمات Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play، والتي يتم تحديثها حاليًا."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"‏يجب توفر إصدار جديد من خدمات Google Play. سيتم تحديثها تلقائيًا قريبًا."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"فتح على الهاتف"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"تسجل الدخول"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"‏تسجيل الدخول عبر Google"</string>
+    <string name="confirm">تأكيد</string>
+    <string name="connect">متصل</string>
+    <string name="date_of_birth">تاريخ الميلاد</string>
+    <string name="disconnect">فصله، الرجاء التحقق من اتصال الإنترنت الخاص بك.</string>
+    <string name="documnet_name">اسم الوثيقة</string>
+    <string name="download">تحميل</string>
+    <string name="download_done">تم التحميل.</string>
+    <string name="download_start">تحميل بداية</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="enable_gps">يرجى تمكين GPS قبل استخدام التطبيق.</string>
+    <string name="english">English</string>
+    <string name="error_connect">فشل الاتصال</string>
+    <string name="expiry_date">تاريخ الإنتهاء</string>
+    <string name="language_title">اختر اللغة المفضلة</string>
+    <string name="license_expiry_date">تاريخ إنتهاء رخصة القياده</string>
+    <string name="loading">جار التحميل</string>
+    <string name="loading_map">تحميل الخريطة</string>
+    <string name="login">الدخول</string>
+    <string name="login_driverlogin">دخوال السائق</string>
+    <string name="login_password">كلمة المرور</string>
+    <string name="login_qr">الدخول باستخدام رمز ال QR</string>
+    <string name="login_tapyourcard">اضغط بطاقتك</string>
+    <string name="login_userid">معرف المستخدم</string>
+    <string name="login_username">اسم المستخدم</string>
+    <string name="logout">خروج</string>
+    <string name="message_sent">تم الارسال!</string>
+    <string name="mins">دقائق.</string>
+    <string name="mobile_number">رقم المحمول</string>
+    <string name="msg1">رسالة 1 هنا</string>
+    <string name="msg2">رسالة 2 هنا</string>
+    <string name="msg3">رسالة 3 هنا</string>
+    <string name="msg4">رسالة 4 هنا</string>
+    <string name="msg5">رسالة 5 هنا</string>
+    <string name="nationality">الجنسية</string>
+    <string name="nfc_disabled">nfc_disabled</string>
+    <string name="no_internet">الرجاء التحقق من اتصال الإنترنت الخاص بك!</string>
+    <string name="no_nfc">لا توجد NFC على هذا الجهاز.</string>
+    <string name="not_empty">لا يمكن أن يكون الحقل فارغا.</string>
+    <string name="ok">حسنا</string>
+    <string name="on_bus">الطلاب في الحافلة</string>
+    <string name="on_map">الطلاب علي الخريطة</string>
+    <string name="or">أو</string>
+    <string name="over_speed_noti">على مدى سرعة إخطار أرسلت!</string>
+    <string name="proceed_msg">هل تريد المتابعة؟</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="qr_empty">لا نتائج لفي ريال قطري</string>
+    <string name="qr_login_txt">دخول/خروج الطلاب باستخدام رمز ال QR</string>
+    <string name="remember_me">تذكرني</string>
+    <string name="remind_before_days">التذكير قبل موعد الآنتهاء بالأيام</string>
+    <string name="save">حفظ</string>
+    <string name="save_">حفظ</string>
+    <string name="send">إرسال</string>
+    <string name="servernotresponding">الخادم لا يستجيب</string>
+    <string name="set_edit_noti">تعيين آو تغيير الرسائل</string>
+    <string name="set_message">الرجاء ضبط الرسالة وحاول مرة أخرى!</string>
+    <string name="set_noti_title">تحديد الرسائل</string>
+    <string name="set_notification">تحديد الرسائل</string>
+    <string name="speed_is">السرعة</string>
+    <string name="student">الطالب</string>
+    <string name="student_CheckIn">يتم فحص الطالب في.</string>
+    <string name="student_absent">تغيب الطالب.</string>
+    <string name="success">نجاح</string>
+    <string name="tap_card">قم بتمرير الكارت</string>
+    <string name="thank_you">شكرا !</string>
+    <string name="title">تتبع M3aak حافلة المدرسة</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_parent_chooser">تحديد بمن ستتصل</string>
+    <string name="title_parent_chooser_multi">حدد الرئيسي لإرسال الإخطار.</string>
+    <string name="total_absent">إجمالي الطلاب الغائبين</string>
+    <string name="total_present">إجمالي الطلاب الموجودين في الحافلة</string>
+    <string name="total_student">مجموع الطلاب</string>
+    <string name="total_waiting">إجمالي الطلاب المنتظرين</string>
+    <string name="type_msg">يرجى إرسال رسالة وحاول مرة أخرى!</string>
+    <string name="unable_download">غير قادر على تنزيل الملف</string>
+    <string name="vehical_insurance_copy">نسخة مركبة بطاقة التأمين</string>
+    <string name="wait">أرجو الإنتظار.......</string>
+    <string name="want_logout">هل تريد الخروج؟</string>
+    <string name="write_here">اكتب الرساله هنا</string>
+    <string name="write_msg">يرجى إرسال رسالة وحاول مرة أخرى!</string>
+    <string name="wrong_route_noti">إخطار طريق الخطأ ترسل!</string>
+    <string name="yes">نعم</string>
+</resources>

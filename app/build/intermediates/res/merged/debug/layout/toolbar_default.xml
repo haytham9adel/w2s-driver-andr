@@ -1,0 +1,40 @@
+<android.support.v7.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/ToolBarStyle"
+    xmlns:circle="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#00af7e"
+    android:minHeight="@dimen/abc_action_bar_default_height_material">
+    <net.w2s.driverapp.MyWidgets.CircleImageView
+        android:layout_width="@dimen/abc_action_bar_default_height_material"
+        android:layout_height="@dimen/abc_action_bar_default_height_material"
+        circle:border_width="0.5dp"
+        circle:border_color="#000000"
+        android:padding="2dp"
+        android:id="@+id/toggle_btn"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true" />
+    <!--<ImageView
+        android:id="@+id/toggle_btn"
+        android:paddingRight="10dp"
+        android:scaleType="centerInside"/>-->
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:background="#00af7e"
+        android:layout_height="@dimen/abc_action_bar_default_height_material"
+        android:layout_gravity="center"
+        >
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#fff"
+            android:gravity="center_vertical|center_horizontal"
+            android:layout_centerInParent="true"/>
+
+    </RelativeLayout>
+
+</android.support.v7.widget.Toolbar>

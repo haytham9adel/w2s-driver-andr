@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:id="@+id/message_root_view"
+    android:padding="15dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dip"
+        android:text="@string/choose_message"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textDirection="locale"
+        android:visibility="gone" />
+
+    <View
+        android:id="@+id/view_top"
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:layout_marginBottom="5dip"
+        android:background="#6f000000"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/layout_message1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        android:padding="5dp"
+        android:visibility="gone">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/send_notification" />
+
+        <TextView
+            android:id="@+id/message1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dip"
+            android:layout_marginLeft="5dip"
+            android:layout_marginStart="5dip"
+            android:gravity="start"
+            android:text="Message1"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textDirection="locale" />
+
+    </LinearLayout>
+
+
+    <View
+        android:id="@+id/view_message1"
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:layout_marginBottom="5dip"
+        android:background="#6f000000"
+        android:visibility="gone" />
+
+
+    <LinearLayout
+        android:id="@+id/layout_message2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        android:padding="5dp"
+        android:textDirection="locale"
+        android:visibility="gone">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/send_notification" />
+
+
+        <TextView
+            android:id="@+id/message2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dip"
+            android:layout_marginLeft="5dip"
+            android:layout_marginStart="5dip"
+            android:gravity="start"
+            android:text="Message1"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textDirection="locale"
+            android:visibility="gone"
+
+            />
+
+    </LinearLayout>
+
+    <View
+        android:id="@+id/view_message2"
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:layout_marginBottom="5dip"
+        android:background="#6f000000"
+        android:visibility="gone" />
+
+
+    <LinearLayout
+        android:id="@+id/layout_message3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        android:padding="5dp"
+        android:visibility="gone">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/send_notification" />
+
+        <TextView
+            android:id="@+id/message3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dip"
+            android:layout_marginLeft="5dip"
+            android:layout_marginStart="5dip"
+            android:gravity="start"
+            android:text="Message1"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textDirection="locale"
+            android:visibility="gone" />
+
+
+    </LinearLayout>
+
+
+    <View
+        android:id="@+id/view_message3"
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:layout_marginBottom="5dip"
+        android:background="#6f000000"
+        android:visibility="gone" />
+
+
+    <LinearLayout
+        android:id="@+id/layout_message4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+
+        android:orientation="horizontal"
+        android:padding="5dp"
+        android:visibility="gone">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/send_notification" />
+
+        <TextView
+            android:id="@+id/message4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dip"
+            android:layout_marginLeft="5dip"
+            android:layout_marginStart="5dip"
+            android:gravity="start"
+            android:text="Message1"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textDirection="locale"
+            android:visibility="gone" />
+
+    </LinearLayout>
+
+
+    <View
+        android:id="@+id/view_message4"
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:layout_marginBottom="5dip"
+        android:background="#6f000000"
+        android:visibility="gone" />
+
+
+    <LinearLayout
+        android:id="@+id/layout_message5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        android:padding="5dp"
+        android:visibility="gone">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/send_notification" />
+
+        <TextView
+            android:id="@+id/message5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dip"
+            android:layout_marginLeft="5dip"
+            android:layout_marginStart="5dip"
+            android:gravity="start"
+            android:text="Message1"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textDirection="locale"
+            android:visibility="gone" />
+
+    </LinearLayout>
+
+
+    <View
+        android:id="@+id/view_message5"
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:layout_marginBottom="5dip"
+        android:background="#6f000000"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/txtSend"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/round_corner_login"
+            android:paddingBottom="10dp"
+            android:paddingLeft="30dp"
+            android:paddingRight="30dp"
+            android:paddingTop="10dp"
+            android:text="@string/Send"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#ffffff"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txtCancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/round_corner_login"
+            android:paddingBottom="10dp"
+            android:paddingLeft="30dp"
+            android:paddingRight="30dp"
+            android:paddingTop="10dp"
+            android:text="@string/cancel"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#ffffff"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+</LinearLayout>

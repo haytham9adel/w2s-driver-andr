@@ -1,0 +1,538 @@
+[
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\call.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable-hdpi\\call.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\user.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable-hdpi\\user.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\pw_ic.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable-hdpi\\pw_ic.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\login_header1.9.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable-hdpi\\login_header1.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\red_border.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable-hdpi\\red_border.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\pw_ic.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable-hdpi\\pw_ic.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\signout.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable-hdpi\\signout.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\call.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable-hdpi\\call.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\title_logo.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable-hdpi\\title_logo.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\user.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable-hdpi\\user.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\paass_icon.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable-hdpi\\paass_icon.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\border_green.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable-hdpi\\border_green.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\tap_card.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable-hdpi\\tap_card.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\driver_app_icon.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable-hdpi\\driver_app_icon.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\title_logo.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable-hdpi\\title_logo.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\password.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable-hdpi\\password.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abs.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable-hdpi\\abs.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\signout.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable-hdpi\\signout.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\border_green.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable-hdpi\\border_green.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\read.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable-hdpi\\read.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\help_ic.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable-hdpi\\help_ic.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\qr.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable-hdpi\\qr.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_text_cursor_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\profile.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable-hdpi\\profile.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sent.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable-hdpi\\sent.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\toggle_btn.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable-hdpi\\toggle_btn.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\user_ic.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable-hdpi\\user_ic.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\profile.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable-hdpi\\profile.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\number_bg.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable-hdpi\\number_bg.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abs.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable-hdpi\\abs.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\message_new.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable-hdpi\\message_new.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\message.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable-hdpi\\message.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\message_new.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable-hdpi\\message_new.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\qr.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable-hdpi\\qr.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\message.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable-hdpi\\message.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\lang.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable-hdpi\\lang.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\notification.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable-hdpi\\notification.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\lang.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable-hdpi\\lang.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\driver_app_icon.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable-hdpi\\driver_app_icon.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sent.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable-hdpi\\sent.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\password.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable-hdpi\\password.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\blue_border.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable-hdpi\\blue_border.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\user_ic.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable-hdpi\\user_ic.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\paass_icon.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable-hdpi\\paass_icon.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\tap_card.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable-hdpi\\tap_card.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\send_notification.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable-hdpi\\send_notification.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\send_notification.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable-hdpi\\send_notification.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\read.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable-hdpi\\read.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\login_header1.9.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable-hdpi\\login_header1.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_text_cursor_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\toggle_btn.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable-hdpi\\toggle_btn.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\number_bg.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable-hdpi\\number_bg.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\red_border.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable-hdpi\\red_border.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\bluetooth.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable-hdpi\\bluetooth.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\blue_border.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable-hdpi\\blue_border.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\notification.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable-hdpi\\notification.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\bluetooth.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable-hdpi\\bluetooth.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\help_ic.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable-hdpi\\help_ic.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    }
+]

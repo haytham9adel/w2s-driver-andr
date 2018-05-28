@@ -1,0 +1,706 @@
+[
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\custom_info_bubble.9.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\custom_info_bubble.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bus_ic.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\bus_ic.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dialog_background.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\d10b78ea486c992b569c7ce2812ff572ce4654be\\output\\res\\drawable\\dialog_background.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\578371e27540b4afdfa45f28a9d5fffe849155a6\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\send_button.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\send_button.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\fab_background.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\63fef0be9225b28a2ebf4d64ca634cdb4041ce68\\output\\res\\drawable\\fab_background.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\578371e27540b4afdfa45f28a9d5fffe849155a6\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\edit_text_back.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\edit_text_back.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\warning_circle.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\d10b78ea486c992b569c7ce2812ff572ce4654be\\output\\res\\drawable\\warning_circle.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\message_field.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\message_field.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\578371e27540b4afdfa45f28a9d5fffe849155a6\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dialog_background.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\d10b78ea486c992b569c7ce2812ff572ce4654be\\output\\res\\drawable\\dialog_background.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\success_bow.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\d10b78ea486c992b569c7ce2812ff572ce4654be\\output\\res\\drawable\\success_bow.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\edit_text_bottom_border.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\edit_text_bottom_border.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\error_circle.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\d10b78ea486c992b569c7ce2812ff572ce4654be\\output\\res\\drawable\\error_circle.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_flag_us.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\icon_flag_us.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\578371e27540b4afdfa45f28a9d5fffe849155a6\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\stud_marker_bg.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\stud_marker_bg.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\warning_sigh.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\d10b78ea486c992b569c7ce2812ff572ce4654be\\output\\res\\drawable\\warning_sigh.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\top_card_back.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\top_card_back.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\red.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\red.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\gray_button_background.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\d10b78ea486c992b569c7ce2812ff572ce4654be\\output\\res\\drawable\\gray_button_background.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\scrollbar.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\scrollbar.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\blue_button_background.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\d10b78ea486c992b569c7ce2812ff572ce4654be\\output\\res\\drawable\\blue_button_background.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\578371e27540b4afdfa45f28a9d5fffe849155a6\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\message_field.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\message_field.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\down_arrow_red.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\down_arrow_red.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\relative_back.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\relative_back.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\blue_dot.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\blue_dot.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\578371e27540b4afdfa45f28a9d5fffe849155a6\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\send_button.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\send_button.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\blue_button_background.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\d10b78ea486c992b569c7ce2812ff572ce4654be\\output\\res\\drawable\\blue_button_background.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\scrollbar.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\scrollbar.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\green.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\green.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\round_corner_fill.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\round_corner_fill.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\578371e27540b4afdfa45f28a9d5fffe849155a6\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\red_button_background.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\d10b78ea486c992b569c7ce2812ff572ce4654be\\output\\res\\drawable\\red_button_background.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\round_corner_popup_bg.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\round_corner_popup_bg.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\down_arrow_yellow.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\down_arrow_yellow.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\yellow.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\yellow.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\down_arrow.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\down_arrow.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\error_center_x.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\d10b78ea486c992b569c7ce2812ff572ce4654be\\output\\res\\drawable\\error_center_x.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\green_dot.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\green_dot.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\green_marker.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\green_marker.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_msg_you.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\bg_msg_you.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\round_corner_fill.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\round_corner_fill.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\578371e27540b4afdfa45f28a9d5fffe849155a6\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\fab_background.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\63fef0be9225b28a2ebf4d64ca634cdb4041ce68\\output\\res\\drawable\\fab_background.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\578371e27540b4afdfa45f28a9d5fffe849155a6\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bus.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\bus.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\578371e27540b4afdfa45f28a9d5fffe849155a6\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mark.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\mark.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\578371e27540b4afdfa45f28a9d5fffe849155a6\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\578371e27540b4afdfa45f28a9d5fffe849155a6\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\error_center_x.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\d10b78ea486c992b569c7ce2812ff572ce4654be\\output\\res\\drawable\\error_center_x.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\error_circle.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\d10b78ea486c992b569c7ce2812ff572ce4654be\\output\\res\\drawable\\error_circle.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mark.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\mark.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\snackbar_background.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\63fef0be9225b28a2ebf4d64ca634cdb4041ce68\\output\\res\\drawable\\snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\down_arrow_green.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\down_arrow_green.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\green.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\green.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\success_bow.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\d10b78ea486c992b569c7ce2812ff572ce4654be\\output\\res\\drawable\\success_bow.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\578371e27540b4afdfa45f28a9d5fffe849155a6\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\background_loginmain.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\background_loginmain.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mark_1.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\mark_1.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\blue_marker.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\blue_marker.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\down_arrow_yellow.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\down_arrow_yellow.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\message_bar.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\message_bar.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\background_loginmain.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\background_loginmain.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\warning_circle.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\d10b78ea486c992b569c7ce2812ff572ce4654be\\output\\res\\drawable\\warning_circle.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\green_marker.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\green_marker.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\logo_new.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\logo_new.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\578371e27540b4afdfa45f28a9d5fffe849155a6\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mark_2.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\mark_2.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sos.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\sos.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\round_corner.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\round_corner.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_msg_from.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\bg_msg_from.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\top_border_new.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\top_border_new.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\gray_button_background.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\d10b78ea486c992b569c7ce2812ff572ce4654be\\output\\res\\drawable\\gray_button_background.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\blue.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\blue.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\578371e27540b4afdfa45f28a9d5fffe849155a6\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\marker_school.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\marker_school.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\578371e27540b4afdfa45f28a9d5fffe849155a6\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\578371e27540b4afdfa45f28a9d5fffe849155a6\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bus_ic.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\bus_ic.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\edit_text_bottom_border.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\edit_text_bottom_border.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\profile_big.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\profile_big.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\edit_text_back.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\edit_text_back.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\red_button_background.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\d10b78ea486c992b569c7ce2812ff572ce4654be\\output\\res\\drawable\\red_button_background.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\down_arrow_red.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\down_arrow_red.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\yellow.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\yellow.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\round_corner_login.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\round_corner_login.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\down_arrow_green.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\down_arrow_green.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\578371e27540b4afdfa45f28a9d5fffe849155a6\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\578371e27540b4afdfa45f28a9d5fffe849155a6\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\578371e27540b4afdfa45f28a9d5fffe849155a6\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\blue.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\blue.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\578371e27540b4afdfa45f28a9d5fffe849155a6\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\splash.jpg",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\splash.jpg"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\red.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\red.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mark_1.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\mark_1.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\round_corner.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\round_corner.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\578371e27540b4afdfa45f28a9d5fffe849155a6\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_msg_from.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\bg_msg_from.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\profile_big.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\profile_big.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\stud_marker_bg.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\stud_marker_bg.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\success_circle.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\d10b78ea486c992b569c7ce2812ff572ce4654be\\output\\res\\drawable\\success_circle.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\logo_new.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\logo_new.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_msg_you.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\bg_msg_you.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\marker_school.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\marker_school.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mark_2.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\mark_2.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\round_corner_login.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\round_corner_login.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\warning_sigh.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\d10b78ea486c992b569c7ce2812ff572ce4654be\\output\\res\\drawable\\warning_sigh.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\red_dot.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\red_dot.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\green_dot.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\green_dot.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bus.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\bus.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\578371e27540b4afdfa45f28a9d5fffe849155a6\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\success_circle.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\d10b78ea486c992b569c7ce2812ff572ce4654be\\output\\res\\drawable\\success_circle.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\blue_dot.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\blue_dot.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_flag_us.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\icon_flag_us.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\578371e27540b4afdfa45f28a9d5fffe849155a6\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\round_corner_popup_bg.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\round_corner_popup_bg.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\snackbar_background.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\63fef0be9225b28a2ebf4d64ca634cdb4041ce68\\output\\res\\drawable\\snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\blue_marker.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\blue_marker.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\578371e27540b4afdfa45f28a9d5fffe849155a6\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\down_arrow.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\down_arrow.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\red_dot.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\red_dot.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\relative_back.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\relative_back.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\splash.jpg",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\splash.jpg"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\578371e27540b4afdfa45f28a9d5fffe849155a6\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\c57d228e19f22c4281b5102d162595aaec1bedf1\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\578371e27540b4afdfa45f28a9d5fffe849155a6\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\top_border_new.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\top_border_new.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\Elnemr\\.android\\build-cache\\578371e27540b4afdfa45f28a9d5fffe849155a6\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\custom_info_bubble.9.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\drawable\\custom_info_bubble.9.png"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\top_card_back.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\top_card_back.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\message_bar.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\message_bar.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sos.png",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\drawable\\sos.png"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar\\driver_document_row.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\layout-ar\\driver_document_row.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar\\activity_login_new.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\layout-ar\\activity_login_new.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar\\activity_profile.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\layout-ar\\activity_profile.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar\\activity_login_new.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\layout-ar\\activity_login_new.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar\\sms_row.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\layout-ar\\sms_row.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar\\driver_document_row.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\layout-ar\\driver_document_row.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar\\activity_profile.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\layout-ar\\activity_profile.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar\\sms_row.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\layout-ar\\sms_row.xml"
+    }
+]

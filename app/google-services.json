@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "984518205746",
+    "firebase_url": "https://way2schoolindia-201118.firebaseio.com",
+    "project_id": "way2schoolindia-201118",
+    "storage_bucket": "way2schoolindia-201118.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984518205746:android:12eb06e78573d77b",
+        "android_client_info": {
+          "package_name": "net.w2s.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984518205746-1pih3a32u1rv8b6uh47jbgnu80904630.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "984518205746-vfjk5dsseeat4hul9e25p04bd135h0ce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.w2s.driverapp",
+            "certificate_hash": "bf7b10d78592d034f12afb335f0dc9eea01e8faa"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDqeB0H600U4CG4CWGffhcaYFs4tATL-0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984518205746-1pih3a32u1rv8b6uh47jbgnu80904630.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984518205746:android:e045fa6d726ec3bf",
+        "android_client_info": {
+          "package_name": "net.w2s.parentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984518205746-1pih3a32u1rv8b6uh47jbgnu80904630.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "984518205746-t5tooh9fi0vbba3pgrjo4p43ha7nokeh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.w2s.parentapp",
+            "certificate_hash": "bf7b10d78592d034f12afb335f0dc9eea01e8faa"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDqeB0H600U4CG4CWGffhcaYFs4tATL-0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984518205746-1pih3a32u1rv8b6uh47jbgnu80904630.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

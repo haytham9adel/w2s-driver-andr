@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.4.0\f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2\picasso-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.4.0_1560963f2dbadbd32f0a80d1f974df3ae814a498\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\projects\android\DriverApp\DriverApp\app\libs\guavalib.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4dad6eb644b525f4222e3c55d31c16660bacb92e">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\guavalib_597413e68d9f22a7e50d52e7b9b2b09132f09af6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.android\build-cache\a5280e4e867e46a19de67f14cf3b5a7f306c1a24\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57487745ce450899f9f250d5ae5c092a682cd041">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8c5cfb50866cf60defa0ba492e83daebdb7e0b47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\projects\android\DriverApp\DriverApp\app\libs\RecyclerView-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="14d500eeb7128db6c0f9b55f166c42eacf00f3b6">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\RecyclerView-classes_3d7b185c9cd416ad786904cea5bb0a96bb59f610\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.12.0\3742beff8024d0a0073d284b7c5e4cbf73d99b25\okio-1.12.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3742beff8024d0a0073d284b7c5e4cbf73d99b25">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.12.0_385eb7674ac33ed867e10168888e5276af84d934\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\projects\android\DriverApp\DriverApp\app\libs\acsbt-1.0.0preview8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e779157f01492e3eecbcf1ecaf7f3e33bc978e87">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\acsbt-1.0.0preview8_4d8212beb232083f14a698e1b6b64f9527a76bff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.2.1_4778268d7006b7649f23fcb5bd802e31d76b5a96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.gradle\caches\modules-2\files-2.1\com.neovisionaries\nv-websocket-client\1.30\15bf9b7a6b93a04823641eab76587a983c81d764\nv-websocket-client-1.30.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="15bf9b7a6b93a04823641eab76587a983c81d764">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\nv-websocket-client-1.30_22ef58292d5a94b058c245af66b2531d5463ec12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.android\build-cache\4e51c5760a2667c691a244770c873fccef7d2a32\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2e0ef56248a74e6705667423df48c7253101e659\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\projects\android\DriverApp\DriverApp\app\libs\acsbt-1.0.0preview8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e779157f01492e3eecbcf1ecaf7f3e33bc978e87">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\acsbt-1.0.0preview8_4d8212beb232083f14a698e1b6b64f9527a76bff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.android\build-cache\507a5625561be3a80db317f7cdd083d4c38e4f49\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="21160c044ba984fb2e33b833c89a496becb85cfd">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_62670599e212f25fd7f3ccbc0723d709f945083a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.7.0\6edbebdd8868708db718d15c09c4b28037fd487e\okhttp-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6edbebdd8868708db718d15c09c4b28037fd487e">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.7.0_9a082e038b68c8263455f2d8ab1e30c89f6e21e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.2.1_4778268d7006b7649f23fcb5bd802e31d76b5a96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\projects\android\DriverApp\DriverApp\app\libs\universal-image-loader-1.8.0-with-sources.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="31adb87678588dbb884ce6a9a402e22cc3dcf53a">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.8.0-with-sources_af56c50006863298b0f3994d7580a3302fa9a358\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.4.0\f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2\picasso-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.4.0_1560963f2dbadbd32f0a80d1f974df3ae814a498\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.android\build-cache\c93533e709374e69467daa5f36f473115a5367bc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d9732bcf28acac02cc0a4242982b9e0f68817d13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.android\build-cache\5ab39029e636b1ad59e1c020c5bc3d83b6721b16\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="32054268e6c9fdff0c9c5deafafd0bd105120fb6">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d1333ed6853d3589b7756e76dad10fb092c9caf6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.android\build-cache\0d2b9f1f4de99d4f9e845287d07b97e38dce66a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bcccc3af673fcdd78f680d54fde023bcab880f5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.android\build-cache\43a2598011d698e4b099f585689b2fe0545b4e3b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e699699fae0092703de1d02b217f43803d0f7e0a">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_099b9994e5575ec5ee2d811485d65904f2b8b3cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\projects\android\DriverApp\w2s-DriverApp\app\libs\guavalib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4dad6eb644b525f4222e3c55d31c16660bacb92e">
+        <dex dex="D:\work\projects\android\DriverApp\w2s-DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\guavalib_c573e62dce633a4bd3324a323cbd410c92000233\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\projects\android\DriverApp\DriverApp\app\libs\common-lang3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="70d0d4ddef60cfa67f28fd3382fc631119380030">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\common-lang3_de01cb4fb77f8484b9f293929aac3fa71370f5ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_a4f470ced56f57e142d54f6227bb40cf65a6fcbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.gradle\caches\modules-2\files-2.1\com.neovisionaries\nv-websocket-client\1.30\15bf9b7a6b93a04823641eab76587a983c81d764\nv-websocket-client-1.30.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15bf9b7a6b93a04823641eab76587a983c81d764">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\nv-websocket-client-1.30_22ef58292d5a94b058c245af66b2531d5463ec12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.12.0\3742beff8024d0a0073d284b7c5e4cbf73d99b25\okio-1.12.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3742beff8024d0a0073d284b7c5e4cbf73d99b25">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.12.0_385eb7674ac33ed867e10168888e5276af84d934\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.android\build-cache\0227c40fc7cc3f8507e76404736a7f8efd62977a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4acacbab67243d9eb026ea759aefd401d070f3e">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_435dac44ee896bd7a2a53ec3c5a7107f2b66ef0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.android\build-cache\d10b78ea486c992b569c7ce2812ff572ce4654be\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c3529d9491be892952749d252ae1defa9b1f937">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c1a6242133a5a45841ac72d74ab0c7ff3c67f687\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.android\build-cache\7435ae72522458dc883ee2bbd70d22ba73d8d92a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6178e31397c24ab1bfc09766832cdcf519621eb7">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a45a4fb6cb5821ff61aa1fad4c42d765899643b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\projects\android\DriverApp\w2s-DriverApp\app\libs\acsbt-1.0.0preview8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e779157f01492e3eecbcf1ecaf7f3e33bc978e87">
+        <dex dex="D:\work\projects\android\DriverApp\w2s-DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\acsbt-1.0.0preview8_688bd61e9c03ae9ff58a4406727847a7b01c54cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.android\build-cache\b4011038d367c5ad32f0104e0476b90ad33e79f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e00b71dcf2fbecaf59b0d487d11839522dd7863d">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b61b1c7a2ce10a6648b86b0153b60902316a35e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.7.0\6edbebdd8868708db718d15c09c4b28037fd487e\okhttp-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6edbebdd8868708db718d15c09c4b28037fd487e">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.7.0_9a082e038b68c8263455f2d8ab1e30c89f6e21e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.android\build-cache\3293f46017a0b1e5943cbd7b03d84c19ce54f462\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="68ef1daf85c69fca8fddf7bbb947fc51cc9f8ca3">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0eedcb1f44cf68d16ec454f1bc70afb8752184c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.android\build-cache\4f083d546dbe36a36fe2b67e4fe5a430724ed71f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b9d4ec83caf09fc6db6dbaa710a21d32f66de6d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.android\build-cache\c78146990a745f52d1182d55cec8bfaae3f61236\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fe53252120335c0c6dbfaeca044daf7c982081ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\projects\android\DriverApp\DriverApp\app\libs\universal-image-loader-1.8.0-with-sources.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="31adb87678588dbb884ce6a9a402e22cc3dcf53a">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.8.0-with-sources_af56c50006863298b0f3994d7580a3302fa9a358\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\projects\android\DriverApp\w2s-DriverApp\app\libs\universal-image-loader-1.8.0-with-sources.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="31adb87678588dbb884ce6a9a402e22cc3dcf53a">
+        <dex dex="D:\work\projects\android\DriverApp\w2s-DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.8.0-with-sources_811d8323d228f617fe120c23cdf20c9bb048818e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\projects\android\DriverApp\DriverApp\app\libs\guavalib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4dad6eb644b525f4222e3c55d31c16660bacb92e">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\guavalib_597413e68d9f22a7e50d52e7b9b2b09132f09af6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_a4f470ced56f57e142d54f6227bb40cf65a6fcbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\projects\android\DriverApp\DriverApp\app\libs\common-lang3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70d0d4ddef60cfa67f28fd3382fc631119380030">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\common-lang3_de01cb4fb77f8484b9f293929aac3fa71370f5ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.android\build-cache\ef6bc4a1fe6e21cda3563866d0232cd078ff1ad2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="54511008bf7d1aabd871d8d3a26781b3f2bd9617">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_42af49c004a16af4091bd6f8d8ad775b84b560c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.android\build-cache\2686a51eb5527e65f7e9a1010ed0045471126f8a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_53b79771abe5e964db7e4a040383433943da1dbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\projects\android\DriverApp\DriverApp\app\libs\RecyclerView-classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="14d500eeb7128db6c0f9b55f166c42eacf00f3b6">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\RecyclerView-classes_3d7b185c9cd416ad786904cea5bb0a96bb59f610\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.android\build-cache\a80571189a03f2a50eb64410275dea4a382b8fd5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d72021c72d2cca4686849c8c5c3919f59ba7184\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.android\build-cache\3c66bc7d630a157cc9db48730184945ea40f61ec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b70c5ad05857b8b3b2458777e1b489a96d82f05">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_edc0fad9e6097c4261aa0a6d93b660e75d957b4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.android\build-cache\de84baa55d40666edda63ce75590014d5f320147\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_797d80e190f13eadb7e2ff72edd3af00fabe0d87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.android\build-cache\a0f25b496a4da093fd7c00364c5b5ab392015f8c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af8d42f1f020e936b8cd9f5cb6c75993194895a3">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ead5251ff03259ca2d7c2fd92536fdb4cbf3ac41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\projects\android\DriverApp\w2s-DriverApp\app\libs\RecyclerView-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="14d500eeb7128db6c0f9b55f166c42eacf00f3b6">
+        <dex dex="D:\work\projects\android\DriverApp\w2s-DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\RecyclerView-classes_6c9a2fc21edaf419cb99da15375c4c0799c1c7c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.android\build-cache\3456efed2c62fbb97175f591d37b9161a449451a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5bd38c72db0a3b4140d38b7fb527e78e46126d79">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f8fb39403da4c0ef29d2448d6c33916f693dc9ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.android\build-cache\578371e27540b4afdfa45f28a9d5fffe849155a6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_34bc78c58b961fa3e0a4a4df6d2e56e44d3f6be6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.android\build-cache\c57d228e19f22c4281b5102d162595aaec1bedf1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f9cd1a22d7857c4bcc2ba85568dd74697c5fc1bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elnemr\.android\build-cache\63fef0be9225b28a2ebf4d64ca634cdb4041ce68\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="D:\work\projects\android\DriverApp\DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6652e38b0374fc5dc7b250adf79feb989d61d6e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\projects\android\DriverApp\w2s-DriverApp\app\libs\common-lang3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70d0d4ddef60cfa67f28fd3382fc631119380030">
+        <dex dex="D:\work\projects\android\DriverApp\w2s-DriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\common-lang3_46b66a7024e0d7f4297b339c11c208d0823eb12c\classes.dex" />
+    </item>
+
+</items>

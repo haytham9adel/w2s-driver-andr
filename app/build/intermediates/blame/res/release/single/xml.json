@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\build\\intermediates\\res\\merged\\release\\xml\\filter_nfc.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\w2s-DriverApp\\app\\src\\main\\res\\xml\\filter_nfc.xml"
+    },
+    {
+        "merged": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\build\\intermediates\\res\\merged\\release\\xml\\filter_nfc.xml",
+        "source": "D:\\work\\projects\\android\\DriverApp\\DriverApp\\app\\src\\main\\res\\xml\\filter_nfc.xml"
+    }
+]
